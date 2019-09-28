@@ -1,0 +1,21 @@
+{
+  "name": "crypto-price-checker",
+  "version": "1.0.0",
+  "description": "Displays Prices of Bitcoin/Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/edmonddoan/Crypto-Price-Checker"
+  },
+  "author": "Edmond Doan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "node-binance-api": "^0.9.6"
+  }
+}
